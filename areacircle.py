@@ -1,5 +1,5 @@
 def area_of_circle(r):
-    area = r * (3.142 ** 2)
+    area = (r **2) * 3.142
     return area
 
 radius = input("Please enter the radius of the circle: \n")
